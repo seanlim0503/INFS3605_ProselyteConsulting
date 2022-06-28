@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CryptoBag</string>
+    <string name="welcome_msg">Hello From CryptoBag App!</string>
+    <string name="action_search">Search</string>
+    <string name="action_sort">Sort</string>
+    <string name="sort_name">Name</string>
+    <string name="sort_value">Value</string>
+</resources>
